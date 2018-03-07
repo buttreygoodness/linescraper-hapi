@@ -1,0 +1,16 @@
+{
+  "name": "linescraper-hapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "hapi": "^17.2.1",
+    "inert": "^5.1.0",
+    "nodemon": "^1.17.1",
+    "puppeteer": "^1.1.1",
+    "scrape-it": "^5.0.2"
+  }
+}
